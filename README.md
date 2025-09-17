@@ -1,6 +1,8 @@
 # Project cloud
 
-# Agregando archivo de colab [colab](https://raw.githubusercontent.com/DrR7data/plantilla-dock/refs/heads/main/cloud_colab1.ipynb)
+# Gist
+
+# Agregando archivo de colab [colab](https://github.com/DrR7data/plantilla-dock/blob/main/cloud_colab1.ipynb)
 
 # lists
  * one 
