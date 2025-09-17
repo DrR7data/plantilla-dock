@@ -10,4 +10,4 @@
  * Tree
 
 # Images in gitihub
-[images](https://github.com/DrR7data/plantilla-dock/issues/2#issuecomment-3301420236)
+![images](https://github.com/DrR7data/plantilla-dock/issues/2#issuecomment-3301420236)
